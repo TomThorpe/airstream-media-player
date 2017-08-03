@@ -1,3 +1,6 @@
+## Archived from Google Code for posterity, not supported.
+You'd be crazy to use this now! It's very old. This is just kept here for the posterity but wont receive updates
+
 # airstream-media-player
 Automatically exported from code.google.com/p/airstream-media-player
 
